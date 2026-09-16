@@ -1,0 +1,23 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "clear",
+  "keywords": [
+    ".help"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "clear"
+  },
+  "license": "ISC",
+  "author": "clear",
+  "type": "commonjs",
+  "main": "clear",
+  "scripts": {
+    "test": "clear"
+  },
+  "dependencies": {
+    "figlet": "^1.11.2"
+  },
+  "devDependencies": {}
+}
