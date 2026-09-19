@@ -1,6 +1,6 @@
 # 🌐 Web Development Learning
 
-This repository contains my **Web Development learning journey** and the projects, practice programs, and concepts I have learned while studying web development.
+This repository contains my *Web Development learning journey* and the projects, practice programs, and concepts I have learned while studying web development.
 
 I am continuously improving my skills by building small projects and practicing **JavaScript, Node.js, Express.js, and EJS**.
 
