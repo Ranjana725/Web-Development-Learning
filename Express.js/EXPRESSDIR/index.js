@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+const path = require("path");
 
 console.dir(app);
 
@@ -24,6 +25,9 @@ app.get("/search",(req,res)=>{
     let {q} = req.query;
     res.send(`search results for query: ${q}`);
 });
+
+
+
 /*
 app.get("/apple",(req,res) => {
     res.send("you contacted apple path");
