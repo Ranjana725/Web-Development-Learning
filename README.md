@@ -1,48 +1,55 @@
 # 🌐 Web Development Learning
 
-Welcome to my **Web Development Learning** repository! 👋
+This repository contains my **Web Development learning journey** and the projects, practice programs, and concepts I have learned while studying web development.
 
-This repository contains my learning journey, practice work, exercises, and small projects as I learn Web Development.
-
-I am continuously learning and improving my skills, so this repository will be updated as I progress.
+I am continuously improving my skills by building small projects and practicing **JavaScript, Node.js, Express.js, and EJS**.
 
 ---
 
-## 📚 Technologies I'm Learning
+## 📚 Technologies & Concepts
 
 - HTML
 - CSS
 - JavaScript
 - Node.js
 - Express.js
-- EJS
+- EJS (Embedded JavaScript Templates)
+- JSON
 - Git & GitHub
+- VS Code
 
 ---
 
-## 📂 Repository Structure
+## 📁 Repository Structure
 
 ```text
 Web-Development-Learning/
 │
 ├── EJS/
 │   └── EJSdir/
+│       ├── views/
+│       │   ├── home.ejs
+│       │   ├── instagram.ejs
+│       │   └── rolldice.ejs
+│       │
+│       ├── data.json
+│       ├── index.js
+│       ├── package.json
+│       └── package-lock.json
 │
 ├── Express.js/
 │   └── EXPRESSDIR/
+│       └── ExpressDir/
+│           ├── index.js
+│           ├── package.json
+│           └── package-lock.json
 │
 ├── JavaScript/
-│   └── javascriptclassroom/
-│       ├── assets/
-│       ├── app.js
-│       ├── index.html
-│       └── style.css
+│   └── javascript/
+│       ├── js
+│       └── javascriptclassroom.code-workspace
 │
-├── Node.js/
-│   └── webclassroom/
-│       └── BACKEND/
-│
-└── .gitignore
+└── README.md
 💻 JavaScript
 This section contains my JavaScript practice and classroom work.
 Topics include:
